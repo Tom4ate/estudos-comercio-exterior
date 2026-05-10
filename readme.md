@@ -23,6 +23,8 @@ Substitui DI ( Declaração de importação )
 
 A DUIMP (Declaração Única de Importação) é o novo documento eletrônico do comércio exterior brasileiro, parte do Novo Processo de Importação (NPI) no Portal Único Siscomex. Ela unifica dados aduaneiros, administrativos e fiscais, substituindo gradualmente a DI (Declaração de Importação) e a DSI para simplificar e acelerar o despacho aduaneiro.
 
+Formato: NNBRNNNNNNNNNN-N
+
 ### L.P.C.O. 
 Substitue LI ( Licença de importação )
 
